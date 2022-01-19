@@ -1,21 +1,21 @@
-# Hello, My name is Javier
+### Hola, Mi nombre es Javier
 
-I'm a proffesional software developer for more than 8 years.
+Soy desarrollador de software desde hace más de 8 años y desde 2014 llevo especializándome en el desarrollo de arquitecturas API en Java, evolucionando y mejorando en el desarrollado de aplicaciones y herramientas en con el framework de Spring.
 
-Since 2014 I have been developing mainly in Java, creating from small applications and backends, to microservices architectures with Spring Cloud and Docker.
+En la actualidad trabajo como ***Java Solution Architech*** en una gran empresa, creando aplicaciones a clientes y ofreciendo asesoría a diferentes proyectos para ayudar a definir la mejor solución en cada caso.
 
-I’m currently working as a ***Java Solution Architech*** in a big company, developing applications for clients and offering advice to different projects to help them to define the best solution in each case.
-
-During these years as a developer I have always liked to experiment with different technologies, regardless of their field of use.
-So, although **Java** is my main programming language, I also like to experiment with **Javascript** development and some of its most used frameworks like **Angular** or **Vue** and my last goal is to learn native mobile application development with **Swift** on IOS.
+Durante mi vida como desarrollador siempre me ha gustado experimentar con diferentes tecnologías, independientemente de su ámbito de uso.
+Por ello, a pesar de que **Java** sea mi lenguaje de programación principal, me gusta también experimentar con el
+desarrollo en **Javascript** y algunos de sus frameworks más usados como **Angular** o **Vue** y mi último objetivo es aprender desarrollo de aplicaciones nativas para móvil con **Swift** en IOS
 
 
 ## Github
-For years, Github has been as an **Application Blog** where I have been uploading ideas of applications, architectures, utilities and first steps of projects that I wanted to share with my parners and community.
+Durante muchos años Github me ha servido como 'blog de aplicaciones' donde he ido subiendo ideas de aplicaciones, arquitecturas, utilidades y primeros pasos de
+proyectos que podían salir adelante y he querido compartir con compañeros de la comunidad.
 
-So, this repository should be taken as a testing site and none of the projects is a production version.
+Por lo que este repositorio debe ser tomado como lo que es, un sitio de pruebas y ninguno de los proyectos es una versión de producción.
 
-## Mainly Skills
+## Habilidades principales
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=red&labelColor=white)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000)]()
@@ -33,7 +33,7 @@ So, this repository should be taken as a testing site and none of the projects i
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000)]()
 
 
-## Other Skills
+## Otras
 
 ### Devops
 
