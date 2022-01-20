@@ -1,6 +1,6 @@
 # Hello, My name is Javier
 
-I'm a proffesional software developer for more than 8 years.
+I'm a professional Backend software developer for more than 8 years specialised in the development of architectures and APIs..
 
 Since 2014 I have been developing mainly in Java, creating from small applications and backends, to microservices architectures with Spring Cloud and Docker.
 
@@ -48,4 +48,10 @@ So, this repository should be taken as a testing site and none of the projects i
 
 ### Mobile
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=000)]()
+
+
+## Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/javier-lacalle-74992226/)
+
+
 
