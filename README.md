@@ -4,7 +4,7 @@ I'm a proffesional software developer for more than 8 years.
 
 Since 2014 I have been developing mainly in Java, creating from small applications and backends, to microservices architectures with Spring Cloud and Docker.
 
-I’m currently working as a ***Java Solution Architech*** in a big company, developing applications for clients and offering advice to different projects to help them to define the best solution in each case.
+I’m currently working as a ***Java Solution Architect*** in a big company, developing applications for clients and offering advice to different projects to help them to define the best solution in each case.
 
 During these years as a developer I have always liked to experiment with different technologies, regardless of their field of use.
 So, although **Java** is my main programming language, I also like to experiment with **Javascript** development and some of its most used frameworks like **Angular** or **Vue** and my last goal is to learn native mobile application development with **Swift** on IOS.
